@@ -4,3 +4,4 @@ And IP2 is the project2 I want to have regraded; its score is currently still sh
 I've added the Git links to my WB documents at the end of each TXT file so you can access all the WB documents more quickly.
 
 Thank you very much for regrading my work.
+Please contact me if anything is unclear.
