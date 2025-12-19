@@ -4,3 +4,5 @@ A red scarf was added with a swaying effect at the ends. A small blue flying sau
 
 Box 06-09-01
 A blue sphere with rings and orbits was created. The center is a glowing blue sphere with a breathing effect. Two mutually perpendicular "energy rings" rotate around the outside. Multiple small red crystals are distributed around the sphere, revolving in orbit and rotating on their own axes. The entire structure floats up and down.
+
+https://github.com/CS559-Fall25/WB06-Brant-gu
