@@ -1,0 +1,5 @@
+Box 08-15-01
+A TorusKnotGeometry metal object was created with high metallicness and low roughness to achieve a mirror-like effect.
+A cube camera was created inside the metal object to render the environment into an environment map.
+To enhance the environmental reflection effect, a group of small spheres of different colors were created to move around the metal object, 
+making the surface of the environment reflection map more vibrant.
