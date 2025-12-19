@@ -7,4 +7,4 @@ In addition to fireworks triggered by clicks, there are also random fireworks: r
 
 Projectile motion: the rockets no longer move in a straight line, but have vx and vy components; vy += gravity in each frame, resulting in a parabolic trajectory.
 
-https://github.com/CS559-Fall25/IP2-Brant-gu
+https://github.com/CS559-Fall25/WB02-Brant-gu
