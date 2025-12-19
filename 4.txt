@@ -1,0 +1,10 @@
+TXT04-02-05
+Corrected erroneous plane scaling and movement.
+
+TXT04-03-01
+Corrected erroneous plane scaling.
+
+Box 04-05-01
+Circular and rectangular gray obstacles have been added to the scene, ensuring that randomly generated Boids do not spawn inside the obstacles.
+When a Boid collides with an obstacle (position is detected in real time), a color change effect occurs, and its movement direction is deflected.
+When Boids collide with each other, a color change effect also occurs, and they change direction.

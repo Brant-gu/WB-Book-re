@@ -1,0 +1,16 @@
+Box 07-06-01
+The four-winged drone will automatically search for randomly generated yellow balls on the ground. Upon reaching the ball's location, it will automatically descend. The drone's spotlight will point towards the ball.
+The blue "airship" will fly in a figure-eight pattern around a track.
+The red rocket flies in a circular path.
+
+Box 07-08-01
+Added to the playground:
+A Ferris wheel with rotating parts composed of red circles and blue squares.
+A drop tower with a column and a blue block that moves up and down, simulating the falling and rising process according to the physics of acceleration.
+Two red swings, each consisting of chains and a board that swings back and forth.
+
+Box 07-09-01
+Added a forklift, whose front bucket can change height and tilt left and right.
+The chute connected to the back of the cement mixer's tank can change angle.
+The dump truck's bed can tilt backward.
+The forklift's forks can move up and down.

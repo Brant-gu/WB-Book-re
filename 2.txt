@@ -1,0 +1,8 @@
+Box 02-08-01
+Explosion fragments gradually disappear over time: particles usually reach the end of their lifespan before reaching the edge of the screen.
+
+Circles appear at random positions on the ground, but the explosion occurs at the mouse position: when clicked, a rocket launches from a random startX position on the ground, targeting the mouse (x,y) coordinates.
+
+In addition to fireworks triggered by clicks, there are also random fireworks: rockets with random target points are automatically generated at time intervals.
+
+Projectile motion: the rockets no longer move in a straight line, but have vx and vy components; vy += gravity in each frame, resulting in a parabolic trajectory.

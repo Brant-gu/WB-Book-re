@@ -1,0 +1,8 @@
+Box 03-06-01
+Two aircraft have been added; the copterinfinity moves in an infinite loop trajectory.
+The player can control the player aircraft using WASD for movement and QE for direction.
+A person in need of rescue has been added. The player can control the blue aircraft to fly to the person and press the spacebar to trigger an animation that moves the person to the upper right corner.
+Box 03-08-01
+I added a radial gradient to the petals to make the center brighter, and added small highlights to increase the shine.
+Added a subtle shadow beneath the flower to enhance its three-dimensionality.
+Added a light blue sky and a wavy grassland background.

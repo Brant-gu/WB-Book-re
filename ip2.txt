@@ -1,0 +1,19 @@
+1. Buildings
+I divided the buildings into three types: high-rise residential areas, commercial areas, and industrial buildings, designated as B1, B2, and B3 respectively.
+B1's exterior features scattered orange-yellow lights as windows;It is defined as a high-rise residential building style.
+For B2's exterior walls, I added neon-colored light strips to enhance the cyberpunk style.There is a circular LED light strip at the top, serving as a helipad.In terms of its design, it is a high-rise commercial building.
+ B3 features light strips  on its exterior walls to simulate an industrial style.As a high-rise office building。
+I created five copies of each of these three building types and placed them evenly around the circle.
+2. Railpod Track
+A cyberpunk-style train runs around the circular city, stopping for two seconds after every three seconds of travel to simulate passenger boarding and alighting.
+3. Background: I found a starry sky image on https://www.pexels.com/search/star/ to use as the background. However, it was too bright, so I used a fragment shader to darken the overall brightness and black level.
+I added meteor animations to the background, making them appear randomly in front of the background texture. They automatically refresh after the animation cycle ends.
+4. Road Network: The neon-colored, glowing metal pathways consist of ten straight lines and a circle. They are designed to transmit energy and data and will flash over time.
+5. Neon Billboard: A giant billboard floating above the plaza that rotates on its own. I designed four segments of text to loop and added blue stripes to simulate a cyberpunk-style display screen.
+6. Cyber Drones: Neon-colored flying vehicles that fly randomly within certain limits above the city. After a period of time, they randomly change direction. Drones that go beyond the city boundaries will lock their position, only allowing for rotation.
+7. Central Energy Tower: Designed to supply energy and process information for this small city. This includes animation effects for various examples.
+8. Halo Trees: Designed as information nodes, they flicker and pulsate. They consist of a spherical base, rotating rings at different angles, and randomly moving particles. I randomly distributed them throughout the city.
+9. Space Station Model: From https://skfb.ly/oCoxE. The original details of the model can be viewed on the website; it consists of two circular structures as the main body, interspersed with complex tubing, and the original model features a rotating animation. I used Blender to remove the unnecessary structures while preserving the animation effect. I then placed it outside the city as a cosmic ring-world structure.
+10. NeonPlaza: Serving as the foundation of the entire city, I added a vertex shader to it to give the ground a grayish-blue color and a gradient effect at the edges.
+11. CyberHovercraft: A controllable cybernetic hovercraft is placed above the center. By adjusting the camera view and the drive control object, the hovercraft can be controlled using keyboard and mouse dragging.
+11. CyberRobotWalker: These are mechanical vehicles used for transporting goods and cleaning up trash in the city. They vary in size and move randomly throughout the city.

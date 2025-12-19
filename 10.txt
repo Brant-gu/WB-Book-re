@@ -1,0 +1,5 @@
+Box 10-02-04
+I changed the fabric's mesh rendering to a triangular mesh.
+I added time-varying wind direction and added gravity and air resistance to each non-fixed particle to create a dynamic fluttering effect.
+I added shear springs and bending springs connecting (i,j)-(i+1,j+1) and (i,j)-(i+1,j-1), and connecting points separated by one point (i,j)-(i,j+2) and (i,j)-(i+2,j).  I also added a wireframe option to show and hide the spring segments.
+I created a yellow sphere and implemented collision detection, so that if a fabric particle enters the sphere's collision range, the particle is projected onto the sphere's surface.
