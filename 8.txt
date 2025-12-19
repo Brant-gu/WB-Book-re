@@ -3,3 +3,6 @@ A TorusKnotGeometry metal object was created with high metallicness and low roug
 A cube camera was created inside the metal object to render the environment into an environment map.
 To enhance the environmental reflection effect, a group of small spheres of different colors were created to move around the metal object, 
 making the surface of the environment reflection map more vibrant.
+
+https://github.com/CS559-Fall25/WB08-Brant-gu
+
