@@ -6,3 +6,5 @@ Box 03-08-01
 I added a radial gradient to the petals to make the center brighter, and added small highlights to increase the shine.
 Added a subtle shadow beneath the flower to enhance its three-dimensionality.
 Added a light blue sky and a wavy grassland background.
+
+https://github.com/CS559-Fall25/WB03-Brant-gu
